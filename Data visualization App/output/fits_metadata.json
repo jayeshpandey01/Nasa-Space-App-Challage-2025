@@ -1,0 +1,299 @@
+[
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.13.08.193_0972NB03.fits",
+        "date_obs": "2025-05-02T01:13:08.193610000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.13.08.193_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.13.26.735_0972NB03.fits",
+        "date_obs": "2025-05-02T01:13:26.735650000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.13.26.735_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.13.45.297_0972NB03.fits",
+        "date_obs": "2025-05-02T01:13:45.297680000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.13.45.297_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.15.13.549_0972NB03.fits",
+        "date_obs": "2025-05-02T01:15:13.549965000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.15.13.549_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.16.45.806_0972NB03.fits",
+        "date_obs": "2025-05-02T01:16:45.806125000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.16.45.806_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.18.18.624_0972NB03.fits",
+        "date_obs": "2025-05-02T01:18:18.62420000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.18.18.624_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.19.50.318_0972NB03.fits",
+        "date_obs": "2025-05-02T01:19:50.318580000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.19.50.318_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.21.22.574_0972NB03.fits",
+        "date_obs": "2025-05-02T01:21:22.574740000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.21.22.574_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.22.54.830_0972NB03.fits",
+        "date_obs": "2025-05-02T01:22:54.830910000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.22.54.830_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.24.27.871_0972NB03.fits",
+        "date_obs": "2025-05-02T01:24:27.87195000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.24.27.871_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.25.59.343_0972NB03.fits",
+        "date_obs": "2025-05-02T01:25:59.343365000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.25.59.343_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.27.31.599_0972NB03.fits",
+        "date_obs": "2025-05-02T01:27:31.599525000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.27.31.599_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.29.03.855_0972NB03.fits",
+        "date_obs": "2025-05-02T01:29:03.855810000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.29.03.855_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.30.36.111_0972NB03.fits",
+        "date_obs": "2025-05-02T01:30:36.111980000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.30.36.111_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.32.08.368_0972NB03.fits",
+        "date_obs": "2025-05-02T01:32:08.368265000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.32.08.368_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.33.40.624_0972NB03.fits",
+        "date_obs": "2025-05-02T01:33:40.624310000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.33.40.624_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.35.12.912_0972NB03.fits",
+        "date_obs": "2025-05-02T01:35:12.912595000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.35.12.912_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.36.45.168_0972NB03.fits",
+        "date_obs": "2025-05-02T01:36:45.168765000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.36.45.168_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.38.17.425_0972NB03.fits",
+        "date_obs": "2025-05-02T01:38:17.425050000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.38.17.425_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.39.49.681_0972NB03.fits",
+        "date_obs": "2025-05-02T01:39:49.681210000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.39.49.681_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.41.21.937_0972NB03.fits",
+        "date_obs": "2025-05-02T01:41:21.937380000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.41.21.937_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.42.54.193_0972NB03.fits",
+        "date_obs": "2025-05-02T01:42:54.193540000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.42.54.193_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.44.26.385_0972NB03.fits",
+        "date_obs": "2025-05-02T01:44:26.385835000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.44.26.385_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.45.58.417_0972NB03.fits",
+        "date_obs": "2025-05-02T01:45:58.417995000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.45.58.417_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.47.30.482_0972NB03.fits",
+        "date_obs": "2025-05-02T01:47:30.482280000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.47.30.482_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.49.02.546_0972NB03.fits",
+        "date_obs": "2025-05-02T01:49:02.546450000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.49.02.546_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.50.34.578_0972NB03.fits",
+        "date_obs": "2025-05-02T01:50:34.578485000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.50.34.578_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.52.06.642_0972NB03.fits",
+        "date_obs": "2025-05-02T01:52:06.642770000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.52.06.642_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.53.38.706_0972NB03.fits",
+        "date_obs": "2025-05-02T01:53:38.706940000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.53.38.706_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.55.10.739_0972NB03.fits",
+        "date_obs": "2025-05-02T01:55:10.739225000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.55.10.739_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.56.42.803_0972NB03.fits",
+        "date_obs": "2025-05-02T01:56:42.803395000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.56.42.803_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.58.14.867_0972NB03.fits",
+        "date_obs": "2025-05-02T01:58:14.867680000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.58.14.867_0972NB03.jpg"
+    },
+    {
+        "file_name": "SUT_C25_0112_000908_Lev1.0_2025-05-02T01.59.46.899_0972NB03.fits",
+        "date_obs": "2025-05-02T01:59:46.899840000",
+        "instrument": "Unknown",
+        "wavelength": "2796",
+        "exposure_time": "0.3",
+        "observer": "Aditya L-1",
+        "jpg_path": "suit_data\\jpg_output\\SUT_C25_0112_000908_Lev1.0_2025-05-02T01.59.46.899_0972NB03.jpg"
+    }
+]

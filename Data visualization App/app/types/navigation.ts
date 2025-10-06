@@ -1,0 +1,20 @@
+export type RootStackParamList = {
+  Welcome: undefined;
+  Landing: undefined;
+  Search: undefined;
+  GraphSimulation: undefined;
+  Blog: undefined;
+  Chatbot: undefined;
+  BlogSWIS: undefined;
+  DatasetPage: undefined;
+  GraphScreen: undefined;
+  GraphDashboard: undefined;
+  TimeSeriesGraph: undefined;
+  CorrelationGraph: undefined;
+  TrajectoryGraph: undefined;
+  DensityGraph: undefined;
+  ScatterGraph: undefined;
+  TemperatureGraph: undefined;
+  AIBlog: undefined;
+  SolarObservation: undefined;
+}; 
